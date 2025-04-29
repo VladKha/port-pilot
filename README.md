@@ -1,8 +1,6 @@
 # PortPilot
 
-AI Assistant for Shipping Industry
-
-AI agent for getting estimates of time, costs, distance for shipping 
+AI Assistant for Shipping Industry: get estimates of time, costs, distance for shipping 
 arbitrary goods around the globe.
 
 ## Features
@@ -25,8 +23,10 @@ arbitrary goods around the globe.
 
 ## Demos
 1. `I want to ship my Tesla from Singapore to Berlin. What could be the estimates for this? Also, what would be the approximate distance?`
-  ![Usage example](images/usage_example_1.png)
-  ![Usage example](images/usage_example_2.png)
+<div style="margin-left: 5%;">
+  <img src="images/usage_example_1.png" width="75%">
+  <img src="images/usage_example_2.png" width="75%">
+</div>
 
 2.`Find all cities of Antler VC offices in Asia.
 Calculate the time and cost to transfer 1 container of apples to Apple Inc headquarters from each of the cities`
