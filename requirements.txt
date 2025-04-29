@@ -1,0 +1,12 @@
+smolagents[all]
+
+pandas
+tenacity
+requests
+python-dotenv
+
+# observability
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+openinference-instrumentation-smolagents
+langfuse
